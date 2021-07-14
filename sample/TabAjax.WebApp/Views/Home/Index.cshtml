@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div>
+        <h2>Display bloc</h2>
+        <div class="row">
+            <p>On ajoute deux attributs au bouton pour affichier un bloc dynamiquement : <code>tabajax-bloc="#content"</code> &amp; <code>tabajax-url="@Url.Action("Content", "Home")"</code></p>            
+        </div>
+        <button tabajax-bloc="#content" tabajax-url="@Url.Action("Content", "Home", new { type = 1 })" class="btn btn-primary">Display Content 1</button>
+        <button tabajax-bloc="#content" tabajax-url="@Url.Action("Content", "Home", new { type = 2 })" class="btn btn-primary">Display Content 2</button>
+        <hr />
+        <div id="content"></div>
+    </div>
+</div>

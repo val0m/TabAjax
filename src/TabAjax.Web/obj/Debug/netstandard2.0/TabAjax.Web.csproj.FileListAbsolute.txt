@@ -1,0 +1,13 @@
+D:\Sources\Git\TabAjax\src\TabAjax.Web\bin\Debug\netstandard2.0\TabAjax.Web.deps.json
+D:\Sources\Git\TabAjax\src\TabAjax.Web\bin\Debug\netstandard2.0\TabAjax.Web.dll
+D:\Sources\Git\TabAjax\src\TabAjax.Web\bin\Debug\netstandard2.0\TabAjax.Web.pdb
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.csproj.AssemblyReference.cache
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.AssemblyInfoInputs.cache
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.AssemblyInfo.cs
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.csproj.CoreCompileInputs.cache
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\staticwebassets\TabAjax.Web.StaticWebAssets.Manifest.cache
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\staticwebassets\TabAjax.Web.StaticWebAssets.xml
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\scopedcss\bundle\TabAjax.Web.styles.css
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.RazorTargetAssemblyInfo.cache
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.dll
+D:\Sources\Git\TabAjax\src\TabAjax.Web\obj\Debug\netstandard2.0\TabAjax.Web.pdb

@@ -1,0 +1,26 @@
+[
+  {
+    "outputFileName": "wwwroot/dist/TabAjax.min.js",
+    "inputFiles": [
+      "wwwroot/js/TabAjax.Library.Reload.js",
+      "wwwroot/js/TabAjax.Library.Helpers.js",
+      "wwwroot/js/TabAjax.Library.js",
+      "wwwroot/js/TabAjax.Display.js",
+      "wwwroot/js/TabAjax.Event.js",
+      "wwwroot/js/TabAjax.Event.Ready.js",
+      "wwwroot/js/TabAjax.Event.Action.js",
+      "wwwroot/js/TabAjax.Event.Bloc.js",
+      "wwwroot/js/TabAjax.Event.Change.js",
+      "wwwroot/js/TabAjax.Event.Filter.js",
+      "wwwroot/js/TabAjax.Event.Message.js",
+      "wwwroot/js/TabAjax.Event.Modal.js",
+      "wwwroot/js/TabAjax.Event.Reload.js",
+      "wwwroot/js/TabAjax.Event.Submit.js",
+      "wwwroot/js/ScriptTabAjax.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": false
+    }
+  }
+]

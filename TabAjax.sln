@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabAjax.WebApp", "sample\TabAjax.WebApp\TabAjax.WebApp.csproj", "{498D487B-B26B-4975-95E2-DCD8ACC43B2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{8D1B54E1-8C43-4CCB-9CA2-D70645C210A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5BE3AB76-D5DC-4D33-AB9E-E643FBD3026A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabAjax.Web", "src\TabAjax.Web\TabAjax.Web.csproj", "{37B8DDAA-D6F7-442F-A229-8B792AE9D68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498D487B-B26B-4975-95E2-DCD8ACC43B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498D487B-B26B-4975-95E2-DCD8ACC43B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498D487B-B26B-4975-95E2-DCD8ACC43B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498D487B-B26B-4975-95E2-DCD8ACC43B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B8DDAA-D6F7-442F-A229-8B792AE9D68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B8DDAA-D6F7-442F-A229-8B792AE9D68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B8DDAA-D6F7-442F-A229-8B792AE9D68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B8DDAA-D6F7-442F-A229-8B792AE9D68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{498D487B-B26B-4975-95E2-DCD8ACC43B2C} = {8D1B54E1-8C43-4CCB-9CA2-D70645C210A2}
+		{37B8DDAA-D6F7-442F-A229-8B792AE9D68C} = {5BE3AB76-D5DC-4D33-AB9E-E643FBD3026A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F231BA94-6D07-4BA6-9E26-85DAA00DF8C7}
+	EndGlobalSection
+EndGlobal
